@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tanzu-java-web-app-3
+  annotations:
+    github.com/project-slug: askanonymous/tanzu-java-web-app-3
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Abhishek Singh
